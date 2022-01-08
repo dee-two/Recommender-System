@@ -1,5 +1,5 @@
 # Recommender-System
-## Movie recommendation engine using the content-based filtering and collaborative filtering 
+## Movie recommendation engine using the content-based filtering and collaborative filtering. Cloned from my college repository.
 ### 1. install anaconda 3.X 
 ### 2. create virtual environment   
 
